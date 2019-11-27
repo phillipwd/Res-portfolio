@@ -1,3 +1,17 @@
-/* html{
-    background-color: slateblue;
+/* @media screen and (max-width: 768px) {
+    .bg-secondary{
+        background-color: tomato;
+    }
 } */
+
+@media screen and (max-width: 768px) {
+    body{
+        background-color: tomato;
+    }
+}
+.portbanner{
+    position: absolute; 
+    bottom: 50px;
+    background-color: aqua;
+      width: 200px;
+}
