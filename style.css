@@ -11,7 +11,12 @@
 }
 .portbanner{
     position: absolute; 
-    bottom: 50px;
-    background-color: aqua;
-      width: 200px;
+    bottom: -25px;
+    /* left: 50px; */
+    background-color: transparent;
+    width: 300px;
+    text-align: center;
+}
+.dark{
+    color: black;
 }
